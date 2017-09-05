@@ -29,7 +29,7 @@ int numeroValido() {
 }
 int fat(int numero) {
 	int resultadoFat = numero;
-	while(numero > 1) {
+	while (numero > 1) {
 		numero--;
 		resultadoFat = resultadoFat * numero;
 	}

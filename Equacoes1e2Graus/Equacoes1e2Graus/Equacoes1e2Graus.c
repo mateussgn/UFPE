@@ -1,4 +1,4 @@
-/*#include <stdio.h>
+#include <stdio.h>
 #include <math.h>
 
 void resolve1oGrau();
@@ -65,4 +65,3 @@ float valida(float c_a) {
 	}
 	return c_a;
 }
-*/
