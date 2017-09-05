@@ -1,4 +1,4 @@
-﻿  QuantosZerosTem.c
-c:\users\mateu\onedrive\códigos de programação\ufpe\equacoes1o2ograus\equacoes1o2ograus\quantoszerostem.c(57): warning C4716: 'quantosZerosTem': deve retornar um valor
-  Equacoes1o2oGraus.vcxproj -> C:\Users\mateu\OneDrive\Códigos de Programação\UFPE\Equacoes1o2oGraus\Debug\Equacoes1o2oGraus.exe
-  Equacoes1o2oGraus.vcxproj -> C:\Users\mateu\OneDrive\Códigos de Programação\UFPE\Equacoes1o2oGraus\Debug\Equacoes1o2oGraus.pdb (Partial PDB)
+﻿OperacoesComFracoes.obj : error LNK2005: _main já definida no MaiorEntreDoisNumeros.obj
+QuantosZerosTem.obj : error LNK2005: _main já definida no MaiorEntreDoisNumeros.obj
+MaiorEntreDoisNumeros.obj : error LNK2019: símbolo externo indefinido _scanf_S referenciado na função _main
+C:\Users\mateu\OneDrive\Códigos de Programação\UFPE\Equacoes1o2oGraus\Debug\Equacoes1o2oGraus.exe : fatal error LNK1120: 1 externo não resolvidos

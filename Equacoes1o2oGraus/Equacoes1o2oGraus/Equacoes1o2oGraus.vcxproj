@@ -112,6 +112,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Equacoes1o2oGraus.c" />
+    <ClCompile Include="MaiorEntreDoisNumeros.c" />
+    <ClCompile Include="OperacoesComFracoes.c" />
     <ClCompile Include="QuantosZerosTem.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
