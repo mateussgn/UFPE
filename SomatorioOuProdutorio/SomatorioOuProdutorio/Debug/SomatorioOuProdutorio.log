@@ -1,0 +1,4 @@
+﻿  SomatorioOuProdutorio.c
+c:\users\mateu\onedrive\códigos de programação\ufpe\somatorioouprodutorio\somatorioouprodutorio\somatorioouprodutorio.c(17): warning C4013: 'system' indefinido; assumindo extern retornando int
+  SomatorioOuProdutorio.vcxproj -> C:\Users\mateu\OneDrive\Códigos de Programação\UFPE\SomatorioOuProdutorio\Debug\SomatorioOuProdutorio.exe
+  SomatorioOuProdutorio.vcxproj -> C:\Users\mateu\OneDrive\Códigos de Programação\UFPE\SomatorioOuProdutorio\Debug\SomatorioOuProdutorio.pdb (Partial PDB)
