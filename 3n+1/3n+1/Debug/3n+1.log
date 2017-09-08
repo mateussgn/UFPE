@@ -1,0 +1,4 @@
+﻿  3n+1.c
+c:\users\mateu\onedrive\códigos de programação\ufpe\3n+1\3n+1\3n+1.c(39): warning C4013: 'system' indefinido; assumindo extern retornando int
+  3n+1.vcxproj -> C:\Users\mateu\OneDrive\Códigos de Programação\UFPE\3n+1\Debug\3n+1.exe
+  3n+1.vcxproj -> C:\Users\mateu\OneDrive\Códigos de Programação\UFPE\3n+1\Debug\3n+1.pdb (Partial PDB)
