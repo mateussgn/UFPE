@@ -4,7 +4,7 @@ int main() {
 	int numero1, numero2, numero3, numero4, numero5, numero6, numero7, numero8;
 
 	printf("Digite dois numeros: \n");
-	scanf_s("%d %d", &numero1, &numero2);
+	scanf("%d %d ", &numero1, &numero2);
 	scanf_s("%d %d", &numero3, &numero4);
 	scanf_s("%d %d", &numero5, &numero6);
 	scanf_s("%d %d", &numero7, &numero8);
