@@ -1,0 +1,8 @@
+﻿  Ler nome e apresentar.c
+c:\users\mateu\onedrive\códigos de programação\ufpe\ler nome e apresentar\ler nome e apresentar\ler nome e apresentar.c(41): warning C4013: 'system' indefinido; assumindo extern retornando int
+c:\users\mateu\onedrive\códigos de programação\ufpe\ler nome e apresentar\ler nome e apresentar\ler nome e apresentar.c(23): warning C4473: 'scanf_s' : não há argumentos suficientes transmitidos para a cadeia de caracteres de formato
+  c:\users\mateu\onedrive\códigos de programação\ufpe\ler nome e apresentar\ler nome e apresentar\ler nome e apresentar.c(23): note: espaços reservados e seus parâmetros esperam 2 argumentos variadic, mas 1 foram fornecidos
+  c:\users\mateu\onedrive\códigos de programação\ufpe\ler nome e apresentar\ler nome e apresentar\ler nome e apresentar.c(23): note: o argumento variadic 2 ausente é requerido pela cadeia de formato '%[^\n]'
+  c:\users\mateu\onedrive\códigos de programação\ufpe\ler nome e apresentar\ler nome e apresentar\ler nome e apresentar.c(23): note: esse argumento é usado como um tamanho do buffer
+  Ler nome e apresentar.vcxproj -> C:\Users\mateu\OneDrive\Códigos de Programação\UFPE\Ler nome e apresentar\Debug\Ler nome e apresentar.exe
+  Ler nome e apresentar.vcxproj -> C:\Users\mateu\OneDrive\Códigos de Programação\UFPE\Ler nome e apresentar\Debug\Ler nome e apresentar.pdb (Partial PDB)

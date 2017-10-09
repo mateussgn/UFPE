@@ -1,0 +1,7 @@
+﻿  [1EE] msgn2.c
+c:\users\mateu\onedrive\códigos de programação\ufpe\1ºee - introdução a programação\1ºee - introdução a programação\[1ee] msgn2.c(37): warning C4305: '+=': truncamento de 'double' para 'float'
+c:\users\mateu\onedrive\códigos de programação\ufpe\1ºee - introdução a programação\1ºee - introdução a programação\[1ee] msgn2.c(39): warning C4305: '-=': truncamento de 'double' para 'float'
+c:\users\mateu\onedrive\códigos de programação\ufpe\1ºee - introdução a programação\1ºee - introdução a programação\[1ee] msgn2.c(40): warning C4305: '-=': truncamento de 'double' para 'float'
+c:\users\mateu\onedrive\códigos de programação\ufpe\1ºee - introdução a programação\1ºee - introdução a programação\[1ee] msgn2.c(46): warning C4244: 'return': conversão de 'double' para 'float', possível perda de dados
+  1ºEE - Introdução a Programação.vcxproj -> C:\Users\mateu\OneDrive\Códigos de Programação\UFPE\1ºEE - Introdução a Programação\Debug\1ºEE - Introdução a Programação.exe
+  1ºEE - Introdução a Programação.vcxproj -> C:\Users\mateu\OneDrive\Códigos de Programação\UFPE\1ºEE - Introdução a Programação\Debug\1ºEE - Introdução a Programação.pdb (Partial PDB)
