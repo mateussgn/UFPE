@@ -1,0 +1,5 @@
+﻿  Structs.c
+c:\users\mateu\onedrive\códigos de programação\ufpe\structs\structs\structs.c(15): warning C4477: 'scanf_s': a cadeia de formato '%f' requer um argumento do tipo 'float *', mas um argumento variadic 1 tem o tipo 'double'
+c:\users\mateu\onedrive\códigos de programação\ufpe\structs\structs\structs.c(15): warning C4477: 'scanf_s': a cadeia de formato '%f' requer um argumento do tipo 'float *', mas um argumento variadic 2 tem o tipo 'double'
+c:\users\mateu\onedrive\códigos de programação\ufpe\structs\structs\structs.c(40): warning C4013: 'system' indefinido; assumindo extern retornando int
+c:\users\mateu\onedrive\códigos de programação\ufpe\structs\structs\structs.c(38): error C4700: variável local não inicializada 'c2' usada
