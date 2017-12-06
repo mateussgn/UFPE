@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510084281 source:c:\users\mateu\desktop\[mt3]msgn2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
